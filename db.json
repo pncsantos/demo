@@ -20,6 +20,41 @@
       "lastName": "Bond",
       "photo": "https://pbs.twimg.com/profile_images/664886718559076352/M00cOLrh.jpg",
       "hasCheckin": true
+    },
+    {
+      "id": "4",
+      "firstName": "Andrew",
+      "lastName": "Tan",
+      "photo": "",
+      "hasCheckin": true
+    },
+    {
+      "id": "5",
+      "firstName": "Dally",
+      "lastName": "Cruz",
+      "photo": "",
+      "hasCheckin": true
+    },
+    {
+      "id": "6",
+      "firstName": "Andrea",
+      "lastName": "Salve",
+      "photo": "",
+      "hasCheckin": false
+    },
+    {
+      "id": "7",
+      "firstName": "Richard",
+      "lastName": "Free",
+      "photo": "",
+      "hasCheckin": false
+    },
+    {
+      "id": "8",
+      "firstName": "Sunshine",
+      "lastName": "Walters",
+      "photo": "",
+      "hasCheckin": false
     }
   ]
 }
