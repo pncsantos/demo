@@ -1,14 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ [
+        {
+          id: 1,
+          name: "Henry",
+          photo: require("../../images/dummy-photo.png"),
+          hasCheckin: false,
+        },
+        {
+          id: 2,
+          name: "Richard",
+          photo: require("../../images/dummy-photo.png"),
+          hasCheckin: true,
+        },
+        {
+          id: 3,
+          name: "Anne",
+          photo: require("../../images/dummy-photo2.png"),
+          hasCheckin: true,
+        },
+        {
+          id: 4,
+          name: "Drew",
+          photo: require("../../images/dummy-photo.png"),
+          hasCheckin: true,
+        },
+        {
+          id: 5,
+          name: "Sunshine",
+          photo: require("../../images/dummy-photo2.png"),
+          hasCheckin: false,
+        },
+        {
+          id: 6,
+          name: "Rose",
+          photo: require("../../images/dummy-photo2.png"),
+          hasCheckin: false,
+        },
+        {
+          id: 7,
+          name: "Dally",
+          photo: require("../../images/dummy-photo2.png"),
+          hasCheckin: false,
+        },
+        {
+          id: 8,
+          name: "Carlo",
+          photo: require("../../images/dummy-photo.png"),
+          hasCheckin: true,
+        },
+      ]
 }
