@@ -1,52 +1,23 @@
-{
- [
-        {
-          id: 1,
-          name: "Henry",
-          photo: require("../../images/dummy-photo.png"),
-          hasCheckin: false,
-        },
-        {
-          id: 2,
-          name: "Richard",
-          photo: require("../../images/dummy-photo.png"),
-          hasCheckin: true,
-        },
-        {
-          id: 3,
-          name: "Anne",
-          photo: require("../../images/dummy-photo2.png"),
-          hasCheckin: true,
-        },
-        {
-          id: 4,
-          name: "Drew",
-          photo: require("../../images/dummy-photo.png"),
-          hasCheckin: true,
-        },
-        {
-          id: 5,
-          name: "Sunshine",
-          photo: require("../../images/dummy-photo2.png"),
-          hasCheckin: false,
-        },
-        {
-          id: 6,
-          name: "Rose",
-          photo: require("../../images/dummy-photo2.png"),
-          hasCheckin: false,
-        },
-        {
-          id: 7,
-          name: "Dally",
-          photo: require("../../images/dummy-photo2.png"),
-          hasCheckin: false,
-        },
-        {
-          id: 8,
-          name: "Carlo",
-          photo: require("../../images/dummy-photo.png"),
-          hasCheckin: true,
-        },
-      ]
-}
+[
+  {
+    "id": "1",
+    "firstName": "Tom",
+    "lastName": "Cruise",
+    "photo": "https://pbs.twimg.com/profile_images/735509975649378305/B81JwLT7.jpg",
+    "hasCheckin": false
+  },
+  {
+    "id": "2",
+    "firstName": "Maria",
+    "lastName": "Sharapova",
+    "photo": "https://pbs.twimg.com/profile_images/786423002820784128/cjLHfMMJ_400x400.jpg",
+    "hasCheckin": true
+  },
+  {
+    "id": "3",
+    "firstName": "James",
+    "lastName": "Bond",
+    "photo": "https://pbs.twimg.com/profile_images/664886718559076352/M00cOLrh.jpg",
+    "hasCheckin": true
+  }
+]
